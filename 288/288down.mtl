@@ -1,8 +1,8 @@
 # Blender MTL File: 'None'
-# Material Count: 2
+# Material Count: 1
 
-newmtl material_0.004
-Ns 39.215686
+newmtl material_0.006
+Ns 37.254902
 Ka 0.800000 0.800000 0.800000
 Kd 0.800000 0.800000 0.800000
 Ks 1.000000 1.000000 1.000000
@@ -11,13 +11,3 @@ Ni 1.000000
 d 1.000000
 illum 2
 map_Kd I:\suncg_data\texture\wood_6.jpg
-
-newmtl material_1.003
-Ns 200.000000
-Ka 0.450000 0.450000 0.450000
-Kd 0.450000 0.450000 0.450000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2

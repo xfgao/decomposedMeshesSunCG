@@ -11,8 +11,8 @@ Ni 1.000000
 d 0.500000
 illum 2
 
-newmtl material_1.002
-Ns 39.215686
+newmtl material_1.001
+Ns 37.254902
 Ka 0.800000 0.800000 0.800000
 Kd 0.800000 0.800000 0.800000
 Ks 1.000000 1.000000 1.000000
@@ -22,7 +22,7 @@ d 1.000000
 illum 2
 map_Kd I:\suncg_data\texture\wood_6.jpg
 
-newmtl material_2.002
+newmtl material_2.001
 Ns 200.000000
 Ka 0.450000 0.450000 0.450000
 Kd 0.450000 0.450000 0.450000
